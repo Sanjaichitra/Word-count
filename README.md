@@ -24,9 +24,9 @@ You can refine the count by cleaning the string prior to splitting or validating
 End the program.
 
 ## PROGRAM:
- #Program to find the word count 
- #Developed by: SANJAI S
- #Register Number: 212223230185
+ # Program to find the word count 
+ # Developed by: SANJAI S
+ # Register Number: 212223230185
 ~~~
 num=0
 with open("sample.txt","r") as f1:
